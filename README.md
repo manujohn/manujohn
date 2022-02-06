@@ -6,7 +6,7 @@ I'm a Software developer from India 🇮🇳
 
 - 💼 System Engineer at [TCS](https://www.tcs.com/)
 
-- ❤️ I love writing Codes, and it's fun!!
+- ❤️ I love writing code, and it's fun!!
 
 - 💬 Ask me about anything [here](https://github.com/manujohn/manujohn/issues)
 
@@ -20,5 +20,5 @@ I'm a Software developer from India 🇮🇳
 <code><img height="20" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manujohn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manujohn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manujohn&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Manu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manujohn&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
