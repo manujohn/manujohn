@@ -8,7 +8,7 @@ I'm a Software developer from India 🇮🇳
 
 - ❤️ I love writing code, and it's fun!!
 
-- 💬 Ask me about anything [here](https://github.com/manujohn/manujohn/issues)
+- 💬 Ask me about anything [here](https://twitter.com/manujohnmj) <code><img height="20" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"></code>
 
 
 
