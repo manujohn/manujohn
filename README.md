@@ -4,7 +4,7 @@ I'm a Software developer from India 🇮🇳
 
 **About me**
 
-- 💼 System Engineer at [TCS](https://www.tcs.com/)
+- 💼 Developer at [Accenture](https://www.accenture.com/in-en)
 
 - ❤️ I love writing code, and it's fun!!
 
