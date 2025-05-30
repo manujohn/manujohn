@@ -1,6 +1,6 @@
 Hello! I'm Manu
 
-I'm a Software developer from India 🇮🇳
+I'm a Software developer
 
 **About me**
 
